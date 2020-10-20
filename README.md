@@ -7,3 +7,6 @@ I only run this software on Windows 11.
 
 ## Entrance
 The entrance file is LittleZha.cpp
+
+## Logic
+The logic of the software is to input what you want to memorize, then the software will compute the date to review the memories by using Forgetting Curve.
