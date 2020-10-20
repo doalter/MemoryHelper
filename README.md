@@ -10,3 +10,7 @@ The entrance file is LittleZha.cpp
 
 ## Logic
 The logic of the software is to input what you want to memorize, then the software will compute the date to review the memories by using Forgetting Curve.
+
+## Pictures
+![image](https://github.com/doalter/MemoryHelper/blob/main/readme_picture/mainUI.png)
+![image](https://github.com/doalter/MemoryHelper/blob/main/readme_picture/TaskUI.png)
