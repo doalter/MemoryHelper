@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/LittleZha">
+        <file>icon_gzt_pop_add.png</file>
+        <file>tuanzi.jpg</file>
+        <file>tuaizi2.jpeg</file>
+        <file>jianbianse.jpg</file>
+    </qresource>
+</RCC>
